@@ -1,6 +1,6 @@
 // Code by Nguyen The Hoang 
-// Profile: https://facebook.com/boysitinh2912 https://github.com/concuchaba2912 https://www.youtube.com/watch?v=dQw4w9WgXcQ
-// 90% chat bot AI 10% my code
+// Profile: https://guns.lol/hoanqdev1z
+// I use AI to help
 #include "wifi_conf.h"
 #include "wifi_cust_tx.h"
 #include "wifi_util.h"
@@ -1100,3 +1100,4 @@ void transitionEffect() {
     delay(20);
   }
 }
+

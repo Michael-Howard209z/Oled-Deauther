@@ -12,8 +12,8 @@ Please visit [docs](https://concuchaba2912.github.io/docs) for information about
 Here are some quick links:
 
 * [Buy](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-* [Download](https://github.com/concuchaba2912/Oled-Deauther/releases/tag/v2.1.1)
-* [DIY Tutorial](https://concuchaba2912.github.io/docs)
+* [Download](https://github.com/michael-howard209z/Oled-Deauther/releases/tag/v2.1.1)
+* [DIY Tutorial](https://michael-howard209z.github.io/docs)
 * [Usage](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 * [FAQ](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
